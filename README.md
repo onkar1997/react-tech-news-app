@@ -8,3 +8,4 @@ Steps to make this project run:
 5. After opening the project in VSCode editor open the terminal and type -> npm install
 6. The above command will install all the packages required for the project.
 7. Once done you can simple start the server by typing -> npm start
+8. Now the server will start and the browser will load the project.
